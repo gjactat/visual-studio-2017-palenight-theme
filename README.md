@@ -1,7 +1,9 @@
 # visual-studio-2017-palenight-theme
 My attempt to port VSCode paleNight theme to Visual Studio 2017
 
-Text colors are based on https://studiostyl.es/schemes/material-theme-pale-night
+Based on :
+- https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme
+- https://studiostyl.es/schemes/material-theme-pale-night (editor colors)
 
 Far from pixel perfect... But that will do for me. Feel free to clone this repo and make this theme better !
 
