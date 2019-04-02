@@ -856,7 +856,7 @@
         <Background Type="CT_RAW" Source="FF2C2C2F" />
       </Color>
       <Color Name="FocusDots">
-        <Foreground Type="CT_RAW" Source="FF46464A" />
+        <Foreground Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="GridColumnSizer">
         <Background Type="CT_RAW" Source="FF313446" />
@@ -1096,11 +1096,11 @@
         <Foreground Type="CT_RAW" Source="FF66C3E6" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Background Type="CT_RAW" Source="FF21515F" />
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF773800" />
+        <Background Type="CT_RAW" Source="FF62698A" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
@@ -1132,8 +1132,8 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF292D3E" />
-        <Foreground Type="CT_RAW" Source="FF292D3E" />
+        <Background Type="CT_RAW" Source="FF313446" />
+        <Foreground Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
@@ -1428,7 +1428,7 @@
         <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF48830E" />
+        <Background Type="CT_RAW" Source="FF008080" />
         <Foreground Type="CT_RAW" Source="FFC0D3AD" />
       </Color>
       <Color Name="xml doc comment - attribute name">
@@ -1528,8 +1528,8 @@
         <Foreground Type="CT_COLORINDEX" Source="00000002" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FF0E4583" />
-        <Foreground Type="CT_RAW" Source="FFADC0D3" />
+        <Background Type="CT_RAW" Source="FF9A3A9A" />
+        <Foreground Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="brace matching">
         <Background Type="CT_RAW" Source="FF353A50" />
@@ -3481,10 +3481,10 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="ToolboxSelectedHeadingBegin">
         <Background Type="CT_RAW" Source="FF292D3E" />
@@ -3644,10 +3644,10 @@
         <Background Type="CT_RAW" Source="FF292D3E" />
       </Color>
       <Color Name="CommandBarDragHandle">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="CommandBarDragHandleShadow">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="CommandBarGradientBegin">
         <Background Type="CT_RAW" Source="FF292D3E" />
@@ -3752,7 +3752,7 @@
         <Background Type="CT_RAW" Source="FF292D3E" />
       </Color>
       <Color Name="DesignerSelectionDots">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="DesignerTray">
         <Background Type="CT_RAW" Source="FF313446" />
@@ -4049,13 +4049,13 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="TitleBarActive">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarActiveGradientBegin">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarActiveGradientEnd">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarActiveText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4205,7 +4205,7 @@
         <Background Type="CT_RAW" Source="FF989EBD" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -4223,10 +4223,10 @@
         <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarActiveBorder">
-        <Background Type="CT_RAW" Source="FF4C4D4D" />
+        <Background Type="CT_RAW" Source="FF393D51" />
       </Color>
       <Color Name="TitleBarDragHandle">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="ToolWindowFloatingFrameInactive">
         <Background Type="CT_RAW" Source="FF292D3E" />
@@ -5347,7 +5347,7 @@
         <Background Type="CT_RAW" Source="FF2C2C2F" />
       </Color>
       <Color Name="FocusDots">
-        <Foreground Type="CT_RAW" Source="FF46464A" />
+        <Foreground Type="CT_RAW" Source="FF313446" />
       </Color>
       <Color Name="GridColumnSizer">
         <Background Type="CT_RAW" Source="FF313446" />
@@ -7000,7 +7000,7 @@
       </Color>
       <Color Name="XAML Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FF686E95" />
       </Color>
       <Color Name="XAML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7052,7 +7052,7 @@
       </Color>
       <Color Name="XML Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FF686E95" />
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7101,7 +7101,7 @@
         <Foreground Type="CT_RAW" Source="FF686E95" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF353A50" />
+        <Background Type="CT_RAW" Source="FF3F4563" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
