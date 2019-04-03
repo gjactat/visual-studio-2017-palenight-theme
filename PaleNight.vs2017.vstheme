@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Pale Night" GUID="{f0afcb30-54c6-42a2-8382-85d1ab5f66b3}">
+  <Theme Name="PaleNight.vs2017 v1.12" GUID="{a00a8daf-4dca-4c19-b410-db987cc64188}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF292D3E" />
@@ -1132,7 +1132,7 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF151720" />
+        <Background Type="CT_RAW" Source="FF1C1F2B" />
         <Foreground Type="CT_RAW" Source="FFEAEAF2" />
       </Color>
       <Color Name="deltadiff.remove.line">
