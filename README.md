@@ -11,6 +11,8 @@ Far from pixel perfect... But that will do for me. Feel free to clone this repo 
 
 ## Installation
 
-- Install the "Color Theme Editor for Visual Studio 2017" extension
-- Import the .pkgdef file
-- Enable the theme (you might need to restart your IDE to get the result)
+- Install the "Color Theme Editor for Visual Studio" extension
+- Import the .pkgdef theme file
+- Double click on the imported "Palenight" theme to enable it
+
+That's it !.. You can now disable the "Color Theme Editor for Visual Studio" extension (can be quite resource-intensive on VS startup to me).
